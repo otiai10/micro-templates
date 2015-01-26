@@ -1,9 +1,9 @@
 {
-    "name": "micro-templates",
+    "name": "micro-templating",
     "description": "use `micro-template` by John Resig on memory",
     "repository": {
         "type": "git",
-        "url": "https://github.com/otiai10/micro-templates"
+        "url": "https://github.com/otiai10/micro-templating"
     },
     "version": "0.0.1",
     "devDependencies": {
