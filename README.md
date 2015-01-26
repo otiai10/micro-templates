@@ -12,7 +12,7 @@ Respecting [micro-templating](http://ejohn.org/blog/javascript-micro-templating/
 
 # spec
 
-```
+```javascript
 // you can generate this pool by using `gulp-micro-templating`
 this.MicroTemplates = {"foo":"<a href=\"<%= url %>\"><%= name %></a>"};
 
