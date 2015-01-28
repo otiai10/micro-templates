@@ -1,0 +1,8 @@
+{
+  "name": "micro-templating",
+  "version": "0.0.1",
+  "main": "./micro-templating.js",
+  "ignore": [],
+  "dependencies": {
+  }
+}
